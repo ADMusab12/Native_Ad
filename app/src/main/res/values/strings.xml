@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Native_Ad</string>
+    <string name="appId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="load_native">Load Native</string>
+</resources>
